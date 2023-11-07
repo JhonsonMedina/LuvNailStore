@@ -1,0 +1,16 @@
+.img-fluid {
+     width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.Navbar{
+    position: absolute;
+}
+.fondo2{
+    background-color: #c71cb4;
+}
+.dropdown-item{
+    color:#bc94e9 ;
+}

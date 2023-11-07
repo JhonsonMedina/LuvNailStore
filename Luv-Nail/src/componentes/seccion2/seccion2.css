@@ -1,0 +1,9 @@
+.meddio{
+    width: 50vw;
+    height: 500px;
+    margin-left: 300px;
+   position: absolute;
+   background-repeat: no-repeat;
+   display: flexbox;
+   background-size: cover;
+}
